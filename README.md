@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a programmer from Vietnam. <br>My main language is nodejs. <br>My motto is if you can't do it, throw it away.
+I'm a programmer from Vietnam.  <br>My motto is if you can't do it, throw it away.
 
 
 ## 🌐 Socials:
