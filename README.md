@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm a programmer from Vietnam. <br>My short-term goal is to master Front-end development. My long-term goal is to become proficient in both Front-end and Back-end development.
-
+<br><img src="![image](https://github.com/user-attachments/assets/a146f54d-b467-40fc-9288-74d00ae04a28)
+" alt="Huynh Van Sang" style="width:200px; height:auto; border-radius:50%;">
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sang.huynhvan.9847) 
 
